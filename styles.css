@@ -2,6 +2,7 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  
 }
 
 .dice {
@@ -10,21 +11,24 @@
 
 }
 
+
 body {
-  background-color: #393E46;
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: sans-serif;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 4rem;
+  color: brown;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: blue;
   font-family: 'Indie Flower', cursive;
 }
 
